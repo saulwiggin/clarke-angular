@@ -1,0 +1,47 @@
+*{}
+
+body{
+	font-family: 'Oswald', sans-serif;
+	background-color: #CFCFC4;
+}
+
+h1{
+	text-align: center;
+	font-size: 2rem;
+}
+
+span{
+	color:brown;
+	font-size: 0.9rem;
+}
+
+.label{
+	color:black;
+	width:2.95rem;
+	display: inline-block;
+}
+
+.spain{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.panel{
+	padding:0.5rem;
+	border:2px solid darkgrey;
+	margin:0.5rem;
+	background-color: white;
+}
+
+/*.panel:nth-of-type(even) {
+	transform: rotate(-2deg);
+}
+.panel:nth-of-type(odd) {
+	transform: rotate(2deg);
+}*/
+
+p{
+	margin:0;
+}

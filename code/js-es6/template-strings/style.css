@@ -1,0 +1,21 @@
+body{
+	font-family: oswald;
+	color:darkslategrey;
+}
+
+.auto{
+	margin:1rem auto;
+	border:1px solid grey;
+	padding:1rem;
+	text-align: center;
+	width:200px;;
+	box-sizing: border-box;
+}
+
+.auto h2{
+	font-size: 1.25rem;
+}
+
+img{
+	max-width: 100%;
+}

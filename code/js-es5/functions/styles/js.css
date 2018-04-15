@@ -1,0 +1,25 @@
+
+body{
+	font-family: 'Oswald', sans-serif;
+}
+
+h1{
+	font-size: 4rem;
+	text-align: center;
+}
+
+.a{
+	color:firebrick;
+}
+
+.b{
+	color:darkblue;
+}
+
+.c{
+	color:orangered;
+}
+
+.d{
+	color:darkgreen;
+}
