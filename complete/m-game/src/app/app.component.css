@@ -1,0 +1,16 @@
+.game{
+	padding:0;
+	margin:0;
+	font-family: oswald;
+	color:darkslategrey;
+}
+
+
+#answer{
+	text-align: center;
+	font-size: 4rem;
+}
+
+.correct{
+	color:forestgreen;
+}

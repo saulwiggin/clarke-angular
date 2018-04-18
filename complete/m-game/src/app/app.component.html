@@ -1,0 +1,12 @@
+
+<section class="game">
+
+    <app-letter
+        *ngFor="let l of letters"
+        [letter]="l"
+        (selectLetter)="addLetter(l)" >
+    </app-letter>
+
+    <p id="answer" [ngClass]="{ 'correct' : game }">{{ userWord }}</p>
+
+</section>

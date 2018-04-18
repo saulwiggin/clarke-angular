@@ -1,0 +1,37 @@
+[
+	{
+		"name" : "Burton Blue",
+		"image" : "burton-blue.png",
+		"description" : "Multi purpose robust daypack",
+		"price" : 45.25,
+		"type" : "tech"
+	},
+	{
+		"name" : "Gregory Red",
+		"image" : "gregory-red.png",
+		"description" : "Economical pack with features",
+		"price" : 75.44,
+		"type" : "utility"
+	},
+	{
+		"name" : "Kathmandu Black",
+		"image" : "kathmandu-black.png",
+		"description" : "High spec expedition pack",
+		"price" : 145.25,
+		"type" : "general"
+	},
+	{
+		"name" : "Kelty Orange",
+		"image" : "kelty-orange.png",
+		"description" : "Designed for the day hiker",
+		"price" : 55.00,
+		"type" : "expedition"
+	},
+	{
+		"name" : "Ogio Yellow",
+		"image" : "ogio-yellow.png",
+		"description" : "Italian techPack",
+		"price" : 125.00,
+		"type" : "daypack"
+	}
+]
